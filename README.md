@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Davi De Meneses Silva
 Estudante de computação e desenvolvedor júnior
 ----------------------------------------------
 
-Desde 2018 tenho contato na área de programação e desde pequeno fascinado por tecnologia. Gosto muito da linguagem python mas já estudei várias outras linguagens. Atualmente com mais conhecimento em back-end porém sempre aberto agora aprender mais
+Desde 2018 tenho contato na área de programação e desde pequeno fascinado por tecnologia. Gosto muito da linguagem python mas já estudei várias outras linguagens. Atualmente com mais conhecimento em back-end porém sempre aberto para aprender mais aprender mais
 
 * 🌍  Sou do Ceará, Brazil
 * ✉️  Pode entrar em contato [davisilvameneses@gmail.com](mailto:davisilvameneses@gmail.com)
